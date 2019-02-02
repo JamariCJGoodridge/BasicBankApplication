@@ -1,0 +1,2 @@
+# BasicBankApplication
+A basic bank application made from python. It is capable of making deposits and withdrawals in the program, track these transactions and update the bank file. This project utilizes python to read, write and add to existing files to produce an interable file. Also used were exceptions to avoid errors that could be caused by user input, such as ValueErrors that could be produced from a user trying to add letters into their bank account instead of numbers. Varaibles were keep localized to avoid complications and make actions explicit.
